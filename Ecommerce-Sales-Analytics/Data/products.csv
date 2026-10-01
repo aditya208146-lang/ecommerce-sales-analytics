@@ -1,0 +1,51 @@
+product_id,product_name,category,price
+101,Laptop,Electronics,55000
+102,Gaming Laptop,Electronics,85000
+103,Smartphone,Electronics,30000
+104,Tablet,Electronics,22000
+105,Smartwatch,Electronics,7000
+106,Bluetooth Speaker,Electronics,3500
+107,Wireless Earbuds,Electronics,2500
+108,Headphones,Electronics,4500
+109,Keyboard,Electronics,1500
+110,Mouse,Electronics,800
+111,Monitor,Electronics,14000
+112,Power Bank,Electronics,1800
+113,USB Cable,Electronics,500
+114,Webcam,Electronics,3200
+115,External SSD,Electronics,6500
+116,T-Shirt,Clothing,799
+117,Jeans,Clothing,1499
+118,Hoodie,Clothing,1999
+119,Jacket,Clothing,2999
+120,Sneakers,Clothing,3499
+121,Formal Shirt,Clothing,1799
+122,Track Pants,Clothing,1299
+123,Kurta,Clothing,1599
+124,Saree,Clothing,2499
+125,Backpack,Accessories,1899
+126,Wallet,Accessories,999
+127,Sunglasses,Accessories,1299
+128,Belt,Accessories,799
+129,Watch,Accessories,4999
+130,Cap,Accessories,599
+131,Office Chair,Furniture,9500
+132,Study Table,Furniture,7500
+133,Bookshelf,Furniture,6200
+134,Table Lamp,Furniture,1800
+135,Sofa Cushion,Furniture,1200
+136,Coffee Table,Furniture,6500
+137,Notebook,Books & Stationery,199
+138,Pen Set,Books & Stationery,249
+139,Planner,Books & Stationery,399
+140,Back-to-School Kit,Books & Stationery,699
+141,Programming Book,Books & Stationery,899
+142,Data Science Book,Books & Stationery,1299
+143,Novel,Books & Stationery,499
+144,Cookbook,Books & Stationery,699
+145,Desk Organizer,Books & Stationery,549
+146,Water Bottle,Home & Kitchen,799
+147,Coffee Mug,Home & Kitchen,399
+148,Cookware Set,Home & Kitchen,3499
+149,Air Fryer,Home & Kitchen,6500
+150,Mixer Grinder,Home & Kitchen,4800
